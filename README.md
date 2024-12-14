@@ -31,8 +31,9 @@ Si queremos crear APK
           bash
           Copiar código
           npx cap open Android
+          copiar archivo AndroidManifest.xml
 
-13. Exporta a formato apk
+14. Exporta a formato apk
 
 
 
